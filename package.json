@@ -1,0 +1,21 @@
+{
+  "name": "mtop",
+  "version": "1.0.0",
+  "description": "TestDesc",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burcevdaniil/mtop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burcevdaniil/mtop/issues"
+  },
+  "homepage": "https://github.com/burcevdaniil/mtop#readme"
+}
